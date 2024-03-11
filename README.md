@@ -43,7 +43,10 @@ full change
 ```
 
 In browser: 
-[kiali dashboard](http://127.0.0.1/:20001)
+[kiali dashboard](http://127.0.0.1:20001)
+
+
+![Graph of BookInfo](image.png)
 
 Read Makefile for commands
 
